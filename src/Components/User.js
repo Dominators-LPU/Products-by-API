@@ -24,7 +24,7 @@ const User = () => {
                  <h1>{person.name.title} {person.name.first} {person.name.last}</h1>
             </div>
             )
-}
+      }
         </div>
 
     )
